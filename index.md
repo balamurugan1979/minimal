@@ -64,7 +64,7 @@
 *   Worked at client location (North Carolina, US) for few months.
 ```
 * * *
-###### Project 1
+#### Project 1
 | PROJECT/CLIENT        | TESTBED HEALTH CHECK MONITORING & REPORTING SYSTEM / HPE          |
 |:-------------|:------------------|
 | Company /Role: | Msys Technologies / Technical Architect    |
